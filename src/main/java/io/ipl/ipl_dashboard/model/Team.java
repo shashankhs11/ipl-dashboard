@@ -47,6 +47,9 @@ public class Team {
     public String toString() {
         return "Team [teamName=" + teamName + ", totalMatches=" + totalMatches + ", totalWins=" + totalWins + "]";
     }
+    
+    public Team() {
+    }
 
     
     
